@@ -26,7 +26,7 @@
 
 背景 ： 实际工作中工程师无法完全按照七层模型要求操作，逐渐演化为更符合实际情况的四层
 
-![TCP/IP模型](C:/Users/Administrator/Desktop/aid1907/03-IO/IO%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/img/1_tcpip%E6%A8%A1%E5%9E%8B.png)
+![TCP/IP模型](imgs/1_tcpip模型.png)
 
 #### 数据传输过程
 
@@ -34,7 +34,7 @@
 2. 发送的消息经过多个节点（交换机，路由器）传输，最终到达目标主机。
 3. 目标主机由物理层逐层解析首部消息包，最终到应用程序呈现消息。
 
-![TCP/IP模型](C:/Users/Administrator/Desktop/aid1907/03-IO/IO%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/img/1_TCP.png)
+![TCP/IP模型](imgs/1_TCP.png)
 
 #### 网络协议
 
